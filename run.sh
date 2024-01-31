@@ -5,4 +5,4 @@
 
 echo "Starting up Emulator.."
 
-java -jar Emulicious.jar GameBoyDev/bin/GameBoyDev.gb
+java -jar Emulicious.jar zgame/bin/GameBoyDev.gb

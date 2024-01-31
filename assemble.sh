@@ -2,7 +2,7 @@
 
 home=$(pwd)
 
-cd GameBoyDev
+cd zgame
 
 echo "Building..."
 
